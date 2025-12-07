@@ -1,0 +1,10 @@
+Prompt 1:
+"Here is extracted text from a folder of training/business materials. Produce a 2–3 sentence professional summary capturing the core theme, purpose, and status of the documents."
+
+Prompt 2:
+"Given these filenames and short extracts, infer labels such as Draft, Final, Needs Attention, Archived, or Finance/Invoice. Provide a one-line rationale for each label."
+
+Prompt 3:
+"Generate concise 'next-step' suggestions based on the summaries and inferred statuses."
+
+These prompts were used with Kiro to refine summaries, understand context, and structure the dossiers.
