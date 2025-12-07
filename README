@@ -50,6 +50,5 @@ All Kiro prompts used are documented in `.kiro/prompts.txt`.
 ├── .kiro/
 │ └── prompts.txt
 ├── blog-post.md
-├── accounts_index.csv
-└── <one sample dossier file>
+account_dossier_colab.ipynb  
 
